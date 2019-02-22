@@ -22,6 +22,20 @@
                 "free__@rambler.ru"
         ],
 
+        
+        "disposable": [
+                "disposable_@10minutemail.co.uk",
+                "disposable_@20mail.it",
+                "disposable_@guerillamail.net",
+                "disposable_@magamail.com",
+                "disposable_@qq.com",
+                "disposable_@temp-mail.org",
+                "disposable_@trash-mail.ga",
+                "disposable_@wef.gr",
+                "disposable_@zzz.com"
+
+        ],
+
         "pattern": [
                 "free__@acme.onmicrosoft.com",
                 "free__@yandex.ru",
