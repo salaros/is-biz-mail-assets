@@ -22,7 +22,6 @@
                 "free__@rambler.ru"
         ],
 
-        
         "disposable": [
                 "disposable_@10minutemail.co.uk",
                 "disposable_@20mail.it",
@@ -44,7 +43,7 @@
                 "free__@hotmail.ru"
         ],
 
-        "incomplete": [        
+        "incomplete": [
                 "bad__@example.*",
                 "yandex.ru"
         ],
@@ -53,7 +52,7 @@
                 "bad__@-domain.com",
                 "bad__@domain"
         ],
-        
+
         "throws": [
                 false,
                 null,
