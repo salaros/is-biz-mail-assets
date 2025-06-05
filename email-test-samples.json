@@ -53,6 +53,11 @@
                 "bad__@domain"
         ],
 
+        "throwsTs": [
+                "",
+                "asd"
+        ],
+
         "throws": [
                 false,
                 null,
